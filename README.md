@@ -38,6 +38,12 @@ The package provides a complete workflow for µCT image analysis:
 8. Permeability determination
 9. Saturated hydraulic conductivity calculation
 
+## Documentation
+
+A detailed user manual is available in:
+
+```text
+docs/User_Manual_microct_porous_media_v1.0.pdf
 ## Installation
 
 ### Option 1: Python virtual environment
