@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+pandas
+tifffile
+scikit-image
+porespy
+openpnm
+networkx
+psutil
+openpyxl
+skan

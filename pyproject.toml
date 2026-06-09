@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "microct-porous-media"
+version = "1.0.0"
+description = "µCT image analysis tools for soils and horticultural substrates"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+license = "MIT"
+authors = [{name = "Hadi Hamaaziz Muhammed", email = "hadiazizm@gmail.com"}]
+keywords = ["micro-CT", "soil", "horticultural substrate", "porous media", "PoreSpy", "OpenPNM", "REV", "hydraulic conductivity"]
+dependencies = [
+    "numpy", "scipy", "matplotlib", "pandas", "tifffile", "scikit-image",
+    "porespy", "openpnm", "networkx", "psutil", "openpyxl", "skan"
+]
+
+[project.scripts]
+microctpm = "microctpm.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

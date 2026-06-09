@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+venv311/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Results
+outputs/
+results/
+
+# Local testing
+local_tests/
+
+# Large images
+*.tif
+*.tiff
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/

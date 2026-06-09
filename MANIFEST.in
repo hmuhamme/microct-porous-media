@@ -1,0 +1,2 @@
+include README.md INSTALL.md LICENSE requirements.txt environment.yml
+recursive-include examples *.py

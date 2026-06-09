@@ -1,0 +1,20 @@
+name: microctpm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - tifffile
+  - scikit-image
+  - networkx
+  - psutil
+  - openpyxl
+  - pip
+  - pip:
+      - porespy
+      - openpnm
+      - skan
+      - -e .
