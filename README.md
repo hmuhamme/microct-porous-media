@@ -1,9 +1,16 @@
 # microct-porous-media
-Authors: Hadi H. Muhammed, Prof.Dr. Ruediger Anlauf
-Email: hadi.azizm@gmail.com
+## Authors
+
+**Hadi Hamaaziz Muhammed**  
+Faculty of Agricultural Sciences and Landscape Architecture  
+Osnabrück University of Applied Sciences  
+Email: hadiazizm@gmail.com
+
+**Prof. Dr. Ruediger Anlauf**  
+Faculty of Agricultural Sciences and Landscape Architecture  
+Osnabrück University of Applied Sciences  
 Email: r.anlauf@hs-osnabrueck.de
-Faculty of Agricultural Sciences and Landscape Architechture
-Osnabrueck University of Applied Sciences
+
 A Python package for Microcomputed Tomography X-Ray (µCT) image analysis of soils and horticultural substrates, including representative elementary volume (REV) analysis, pore morphology characterization, pore network extraction, pore size distribution, water retention curve estimation, permeability, and saturated hydraulic conductivity determination.
 
 A Python package migrated from six original µCT image-analysis research scripts for soils and horticultural substrates.
