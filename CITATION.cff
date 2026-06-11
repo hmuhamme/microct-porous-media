@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: microct-porous-media
+message: "If you use this software, please cite it as follows."
+type: software
+
+authors:
+  - family-names: Muhammed
+    given-names: Hadi Hamaaziz
+    affiliation: Osnabrück University of Applied Sciences
+
+  - family-names: Anlauf
+    given-names: Ruediger
+    affiliation: Osnabrück University of Applied Sciences
+
+version: 1.0.2
+
+doi: 10.5281/zenodo.20649266
+
+repository-code: https://github.com/hmuhamme/microct-porous-media
+
+license: MIT
