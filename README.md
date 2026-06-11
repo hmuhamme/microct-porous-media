@@ -1,5 +1,10 @@
 # microct-porous-media
 
+[![PyPI version](https://img.shields.io/pypi/v/microct-porous-media.svg)](https://pypi.org/project/microct-porous-media/)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20649266.svg)](https://doi.org/10.5281/zenodo.20649266)
+
+# microct-porous-media
 A Python package for X-ray Microcomputed Tomography (µCT) image analysis of soils and horticultural substrates.
 
 ---
