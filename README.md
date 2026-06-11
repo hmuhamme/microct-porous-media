@@ -281,6 +281,18 @@ LICENSE
 for details.
 
 ---
+## Software DOI
+
+This software archive is permanently available through Zenodo:
+
+DOI: https://doi.org/10.5281/zenodo.20649266
+
+Citation:
+
+Muhammed, H. H., & Anlauf, R. (2026).
+microct-porous-media (Version 1.0.2).
+Zenodo.
+https://doi.org/10.5281/zenodo.20649266
 
 ## Acknowledgements
 
