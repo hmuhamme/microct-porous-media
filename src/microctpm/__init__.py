@@ -1,7 +1,7 @@
 
 """microctpm: µCT image analysis tools for soils and horticultural substrates."""
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 from .rev_xy import run_rev_xy
 from .rev_xyz import run_rev_xyz
